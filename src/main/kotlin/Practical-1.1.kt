@@ -1,13 +1,13 @@
 fun main() {
-    var a: Int = 17
-    var b: Double = 12.5678
-    var c: Float = 2.26f
-    var d: Long = 3455627773
-    var e: Short = 1701
-    var f: Byte = 127
-    var g: Char = 'K'
-    var h: Boolean = true
-    var i: String = "Krutika Rathod!"
+    val a: Int = 17
+    val b: Double = 12.5678
+    val c: Float = 2.26f
+    val d: Long = 3455627773
+    val e: Short = 1701
+    val f: Byte = 127
+    val g: Char = 'K'
+    val h: Boolean = true
+    val i: String = "kru"
     println("Integer value :$a")
     println("Double value :$b")
     println("Float value :$c")
